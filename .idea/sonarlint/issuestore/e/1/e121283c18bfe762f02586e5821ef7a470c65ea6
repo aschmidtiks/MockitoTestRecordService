@@ -1,6 +1,0 @@
-
-Xsquid:UselessImportCheck"-Remove this unused import 'org.junit.Before'.(ÙşºÙ8Äº©¿-
-8squid:S1220""Move this file to a named package.8ÎÒ·©¿-
-ksquid:UselessImportCheck
-";Remove this unused import 'org.mockito.MockitoAnnotations'.(Õ©š¤şÿÿÿÿ8Äº©¿-
-lsquid:S1192"IDefine a constant instead of duplicating this literal "temp.txt" 3 times.(èôÃîøÿÿÿÿ8Óş©¿-
